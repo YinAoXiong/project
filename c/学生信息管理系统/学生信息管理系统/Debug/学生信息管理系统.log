@@ -1,0 +1,6 @@
+﻿  源.cpp
+  函数.cpp
+  正在生成代码...
+d:\onedrive\project\vs2017\学生信息管理系统\学生信息管理系统\函数.cpp(446): warning C4715: “delete_students”: 不是所有的控件路径都返回值
+  学生信息管理系统.vcxproj -> D:\OneDrive\project\vs2017\学生信息管理系统\Debug\学生信息管理系统.exe
+  学生信息管理系统.vcxproj -> D:\OneDrive\project\vs2017\学生信息管理系统\Debug\学生信息管理系统.pdb (Partial PDB)
