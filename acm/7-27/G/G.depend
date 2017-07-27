@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1501143599 source:c:\users\14356\desktop\yinproject\project\acm\7-27\g\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+
