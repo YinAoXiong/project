@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1501466976 source:g:\github\project\acm\7-31\a\main.cpp
+	<iostream>
+	<queue>
+

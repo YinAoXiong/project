@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1501579648 source:g:\github\project\acm\8-1\a\main.cpp
+	<iostream>
+	<algorithm>
+	<cmath>
+	<cstdio>
+	<climits>
+

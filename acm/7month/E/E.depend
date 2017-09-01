@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1501316710 source:g:\github\project\acm\7month\e\main.cpp
+	<iostream>
+	<set>
+	<map>
+
